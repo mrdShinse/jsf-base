@@ -6,7 +6,7 @@
 
     <groupId>mrd.shinse</groupId>
     <artifactId>jsf-base</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>war</packaging>
 
     <name>jsf-base</name>
